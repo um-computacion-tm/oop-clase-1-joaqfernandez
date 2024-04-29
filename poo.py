@@ -1,5 +1,5 @@
 class Profesor:
-    def __init__ (self, el_nombre, el_mail):         ##*!__init__ crea el objeto (OBLIGATORIO)
+    def __init__ (self, el_nombre, el_mail):         ##*__init__ crea el objeto (OBLIGATORIO)
         self.__nombre__ = el_nombre
         self.__mail__ = el_mail
 
